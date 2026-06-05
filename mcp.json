@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "stackgen-admin": {
+      "type": "sse",
+      "url": "https://not-configured/api/mcp/admin",
+      "headers": {
+        "Authorization": "Bearer not-configured"
+      },
+      "disabled": false
+    },
+    "stackgen-user": {
+      "type": "sse",
+      "url": "https://not-configured/api/mcp/user",
+      "headers": {
+        "Authorization": "Bearer not-configured"
+      },
+      "disabled": false
+    }
+  }
+}
