@@ -1,6 +1,6 @@
 # StackGen Power for Kiro
 
-Infrastructure provisioning and cloud management power for creating appStacks, detecting drift, and automating SRE workflows through natural language. This power connects Kiro's AI agent directly to your StackGen workspace via MCP.
+The StackGen Kiro Power lets you create and provision compliant infrastructure based on your organizational governance. It also helps you manage drift in your cloud environments across AWS — directly from Kiro using natural language in agent chat.
 
 ## About StackGen
 
